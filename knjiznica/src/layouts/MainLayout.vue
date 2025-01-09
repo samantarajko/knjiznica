@@ -52,44 +52,44 @@ import EssentialLink from 'components/EssentialLink.vue'
 const linksList = [
   {
     title: 'Naslovnica',
-    caption: 'quasar.dev',
+    caption: 'Naslovnica',
     icon: 'school',
     link: '/'
   },
   {
     title: 'Popis Svih Knjiga',
-    caption: 'github.com/quasarframework',
-    icon: 'code',
+    caption: 'Popis svih knjiga',
+    icon: 'list',
     link: '#/popisKnjiga'
   },
   {
     title: 'Pretraživanje',
-    caption: 'chat.quasar.dev',
-    icon: 'chat',
+    caption: 'Pretraživanje među knjigama',
+    icon: 'search',
     link: '#/pretrazivanje'
   },
   {
     title: 'O nama',
-    caption: 'forum.quasar.dev',
+    caption: 'Više o nama',
     icon: 'record_voice_over',
     link: '#/o_nama'
   },
   {
     title: 'Lokacija',
-    caption: '@quasarframework',
-    icon: 'rss_feed',
+    caption: 'Naša lokacija',
+    icon: 'location_on',
     link: '#/lokacija'
   },
   {
     title: 'Login',
-    caption: '@QuasarFramework',
-    icon: 'public',
+    caption: 'Ulogirajte se',
+    icon: 'login',
     link: '#/login'
   },
   {
     title: 'Registracija',
-    caption: 'Community Quasar projects',
-    icon: 'favorite',
+    caption: 'Registrirajte se',
+    icon: 'how_to_reg',
     link: '#/registracija'
   }
 ]
